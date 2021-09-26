@@ -1,0 +1,7 @@
+{
+  "name": "Black Song",
+  "description": "🤖 Discord Music Bot built with discord.js for discord.",
+  "repository": "https://github.com/RubStudio-1/Black-Song",
+  "logo": "https://cdn.discordapp.com/attachments/765889055115182110/801444943523479602/PdpBot-BW.png",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
